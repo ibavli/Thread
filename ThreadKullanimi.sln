@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SleepMetodu", "SleepMetodu\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuspendVeResumeMetodlari", "SuspendVeResumeMetodlari\SuspendVeResumeMetodlari.csproj", "{038DD9B9-AF2D-4FDB-BC07-E17E8B341A24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbortMetodu", "AbortMetodu\AbortMetodu.csproj", "{8790F59E-E0A3-4B2C-9382-CC59C842467C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{038DD9B9-AF2D-4FDB-BC07-E17E8B341A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{038DD9B9-AF2D-4FDB-BC07-E17E8B341A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{038DD9B9-AF2D-4FDB-BC07-E17E8B341A24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8790F59E-E0A3-4B2C-9382-CC59C842467C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8790F59E-E0A3-4B2C-9382-CC59C842467C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8790F59E-E0A3-4B2C-9382-CC59C842467C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8790F59E-E0A3-4B2C-9382-CC59C842467C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
